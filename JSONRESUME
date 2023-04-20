@@ -1,0 +1,39 @@
+<script>
+    let resume={
+        name:"surya",
+        fathersname:"c.pandiyan",
+        mobileno:"9345833203",
+        education:[
+            {
+            type "sslc"
+            Institution "sacred heart"
+            percentage "86"
+            },
+            {
+            type "hsc"
+            Institution "sacred heart"
+            percentage "68"   
+            },
+            {
+            type "B.TECH"
+            Institution "sudharsan"
+            cgpa "8.1"
+            }
+            experience:[
+                {
+                business "running my own business from 2018-2020"
+                },
+                {
+                tippusultan"working admin of travels company"  
+                }
+            ]
+            skills:[
+                {
+                codind:"know basic core java concept","learning fullstack development in guvi"
+
+                }
+            ]
+
+
+        ]
+    }

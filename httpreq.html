@@ -10,9 +10,7 @@
             console.log("Welcome to HTML JS")
 
             function handleData(){
-                console.log(JSON.parse(this.responseText))
-                
-                 
+                console.log(JSON.parse(this.responseText))  
             }
             const req = new XMLHttpRequest();
             req.addEventListener('load',handleData)
